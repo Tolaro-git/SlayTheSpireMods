@@ -33,12 +33,12 @@ Fork this, and notify me via the workshop page once you are done. I may not be a
     
     *: Colored word. Game automatically color keywords, so this is mainly for created cards.
 
-    NL: Manual line break. These are optional and you can add/remove/relocate them however you want. In practice, you only use them for visual separation between unrelated card effects. Game automatically inserts line breaks to fit the text in the text box.
+    NL: Manual line break. These are optional and you can add/remove/relocate them however you want. In practice, you only use them for visual separation between unrelated card effects, as the game automatically inserts line breaks to fit the text in the text box.
   
   
 ## Power Tooltips:
   
-  Each power tooltip consists of multiple strings separated by commas so that the game can insert varying numbers between them. Since the order of numbers can not be changed, you will need to adapt your translation to fit the English format.
+  Each power tooltip consists of multiple strings separated by commas so that the game can insert varying numbers between them. Since the order of those numbers can not be changed, you will need to adapt your translation to fit the English format.
   
   Power tooltips use different symbols from card descriptions:
     
