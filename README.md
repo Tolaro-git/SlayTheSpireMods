@@ -15,7 +15,7 @@ Fork this, and notify me via the workshop page once you are done. Or show me you
 
 ## Card Descriptions:
 
-  Vulnerable, Evoke and Exhaust are keywords. They are explicitly defined in the code. Keywords are automatically colored yellow and display a tooltip when hovered over. They must be capitalized in the translation file, and must be separated from the rest of the text with spaces, even in languages that normally do not use spaces. Otherwise, they may not be recognized.
+  Vulnerable, Evoke, Exhaust. These are examples of keywords. Keywords are explicitly defined words that are automatically colored yellow and display a tooltip when hovered over. They must be capitalized in the translation file, and must be separated from the rest of the text with spaces, even in languages that normally do not use spaces. Otherwise, they may not be recognized.
   
   Below are the special symbols used in card descriptions. Do not alter them.
   
