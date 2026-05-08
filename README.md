@@ -8,7 +8,7 @@ Translation files for mods below:
   
   Purple: https://steamcommunity.com/sharedfiles/filedetails/?id=3342218134
 
-Fork this, and notify me via the workshop page once you are done. I may not be active here. Or show me your files somehow if you don't do GitHub
+Fork this, and notify me via the workshop page once you are done. Or show me your files somehow if you don't do GitHub
 
 
 # Translation Guide
