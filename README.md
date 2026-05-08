@@ -1,7 +1,11 @@
 Translation files for mods below:
+  
   Red: https://steamcommunity.com/sharedfiles/filedetails/?id=3032112884
+  
   Green: https://steamcommunity.com/sharedfiles/filedetails/?id=3219969350
+  
   Blue: https://steamcommunity.com/sharedfiles/filedetails/?id=2970853759
+  
   Purple: https://steamcommunity.com/sharedfiles/filedetails/?id=3342218134
 
 Notify me via the workshop page once you are done.
