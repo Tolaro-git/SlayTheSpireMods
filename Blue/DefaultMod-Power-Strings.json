@@ -1,0 +1,29 @@
+{
+	
+	"kobeBlue:HibernationPower": {
+		"NAME": "Hibernation",
+		"DESCRIPTIONS": ["At the start of your next turn, remove #b", " rightmost #yFrost."]
+	},
+	
+	
+	
+	"kobeBlue:AutomationPower": {
+		"NAME": "Automation",
+		"DESCRIPTIONS": [
+			"Whenever you #yChannel an Orb, #yEvoke your leftmost Orb.",
+			"Whenever you #yChannel an Orb, #yEvoke #b",
+			" leftmost Orbs."
+		]
+	},
+	
+	"kobeBlue:HeavyDutyPower": {
+		"NAME": "Heavy-Duty",
+		"DESCRIPTIONS": ["Whenever you gain a debuff, gain #b", " #yArtifact."]
+	},
+	
+	"kobeBlue:TrialAndErrorPower": {
+		"NAME": "Trial and Error",
+		"DESCRIPTIONS": ["The first time you shuffle your draw pile each turn, gain #b", " #yStrength and #b", " #yDexterity."]
+	}
+	
+}

@@ -1,0 +1,106 @@
+{
+  
+  "kobeBlue:ExplosiveStrike": {
+    "NAME": "Explosive Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Evoke ALL Lightning."
+  },
+  
+  "kobeBlue:Hack": {
+    "NAME": "Hack",
+    "DESCRIPTION": "Deal !D! damage. NL Gain 1 Orb slot."
+  },
+  
+  "kobeBlue:Multiplexer": {
+    "NAME": "Multiplexer",
+    "DESCRIPTION": "Deal !D! damage !M! times. NL Dexterity and Focus affect the damage of this card."
+  },
+  
+  "kobeBlue:ScannerBeam": {
+    "NAME": "Scanner Beam",
+    "DESCRIPTION": "Deal !D! damage and apply 1 Lock-On to ALL enemies."
+  },
+  
+  
+  
+  "kobeBlue:Arc": {
+    "NAME": "Arc",
+    "DESCRIPTION": "Innate. NL Channel !M! Lightning. NL Exhaust."
+  },
+  
+  "kobeBlue:CloakingShadows": {
+    "NAME": "Cloaking Shadows",
+    "DESCRIPTION": "Channel 1 Dark. NL Gain Block equal to !M! times the number of Dark you have.",
+    "UPGRADE_DESCRIPTION": "Channel 1 Dark. NL Gain Block equal to !M! times the number of Dark you have +!kobeBlue:SecondMagic!.",
+    "EXTENDED_DESCRIPTION": [" NL (!B! Block.)"]
+  },
+  
+  "kobeBlue:Debug": {
+    "NAME": "Debug",
+    "DESCRIPTION": "Scry !M!. NL Exhaust !kobeBlue:SecondMagic! random Curse or Status in your discard pile.",
+    "UPGRADE_DESCRIPTION": "Scry !M!. NL Exhaust !kobeBlue:SecondMagic! random Curses or Statuses in your discard pile."
+  },
+  
+  "kobeBlue:Hibernate": {
+    "NAME": "Hibernate",
+    "DESCRIPTION": "Channel !kobeBlue:SecondMagic! Frost. NL Next turn, remove !M! rightmost Frost."
+  },
+  
+  "kobeBlue:Integrate": {
+    "NAME": "Integrate",
+    "DESCRIPTION": "Convert each empty Orb slot into !M! NL *Plated *Armor. NL Exhaust."
+  },
+  
+  "kobeBlue:Nova": {
+    "NAME": "Nova",
+    "DESCRIPTION": "Evoke up to 3 Orbs. NL If 3 unique Orbs are Evoked this way, Channel 1 Plasma."
+  },
+  
+  "kobeBlue:Polymorphism": {
+    "NAME": "Polymorphism",
+    "DESCRIPTION": "Choose 1 of !M! non-Blue Powers to add into your hand. NL Exhaust."
+  },
+  
+  "kobeBlue:Unity": {
+    "NAME": "Unity",
+    "DESCRIPTION": "Gain !B! Block. NL If all your Orbs are of the same type, draw !M! cards."
+  },
+  
+  
+  
+  "kobeBlue:Automation": {
+    "NAME": "Automation",
+    "DESCRIPTION": "Ethereal. NL Gain !M! Focus. NL Whenever an Orb is Channeled, Evoke it.",
+    "UPGRADE_DESCRIPTION": "Gain !M! Focus. NL Whenever an Orb is Channeled, Evoke it."
+  },
+  
+  "kobeBlue:HeavyDuty": {
+    "NAME": "Heavy-Duty",
+    "DESCRIPTION": "Whenever you gain a debuff, gain !M! Artifact."
+  },
+  
+  "kobeBlue:TrialAndError": {
+    "NAME": "Trial and Error",
+    "DESCRIPTION": "The first time you shuffle your draw pile each turn, gain !M! Strength and !M! Dexterity.",
+    "UPGRADE_DESCRIPTION": "The first time you shuffle your draw pile each turn, gain !M! Strength and !M! Dexterity. Scry !kobeBlue:SecondMagic!."
+  },
+  
+  
+  
+  "kobeBlue:EvokeOne": {
+    "NAME": "Evoke One",
+    "DESCRIPTION": "Evoke 1 Orb."
+  },
+  "kobeBlue:EvokeTwo": {
+    "NAME": "Evoke Two",
+    "DESCRIPTION": "Evoke 2 Orbs."
+  },
+  "kobeBlue:EvokeThree": {
+    "NAME": "Evoke Three",
+    "DESCRIPTION": "Evoke 3 Orbs."
+  },
+  "kobeBlue:EvokeThree2": {
+    "NAME": "Evoke Three",
+    "DESCRIPTION": "Evoke 3 Orbs. NL Channel 1 Plasma."
+  }
+  
+}

@@ -1,0 +1,105 @@
+{
+	
+	"kobeGreen:DeftStrike": {
+		"NAME": "Deft Strike",
+		"DESCRIPTION": "Deal !D! damage twice. NL Positive Dexterity increases the damage of this card.",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Positive Dexterity increases the damage of this card."
+	},
+	
+	"kobeGreen:HuntDown": {
+		"NAME": "Hunt Down",
+		"DESCRIPTION": "Deal !D! damage. NL Whenever this card is drawn, increase its damage by !M! this combat."
+	},
+	
+	"kobeGreen:Petrify": {
+		"NAME": "Petrify",
+		"DESCRIPTION": "Deal !D! damage. NL Enemy prevents the next time it would lose HP."
+	},
+	
+	
+	
+	"kobeGreen:AceInTheHole": {
+		"NAME": "Ace in the Hole",
+		"DESCRIPTION": "Retain. NL Add !M! *Shivs+ into your hand."
+	},
+	
+	"kobeGreen:Camouflage": {
+		"NAME": "Camouflage",
+		"DESCRIPTION": "You have 3 additional Dexterity until !M! more Skills are played.",
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL You have 3 additional Dexterity until !M! more Skills are played."
+	},
+	
+	"kobeGreen:Improvise": {
+		"NAME": "Improvise",
+		"DESCRIPTION": "Choose 1 of !M! non-Green Skills to add into your hand. NL It costs 1 less this turn. NL Exhaust."
+	},
+	
+	"kobeGreen:InvisibleThreads": {
+		"NAME": "Invisible Threads",
+		"DESCRIPTION": "Shuffle up to !M! cards from your discard pile into your draw pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Shuffle up to !M! cards from your discard pile into your draw pile.",
+		"EXTENDED_DESCRIPTION": [
+			"Choose up to ",
+			" card to shuffle into your draw pile.",
+			" cards to shuffle into your draw pile."
+		]
+	},
+	
+	"kobeGreen:Poise": {
+		"NAME": "Poise",
+		"DESCRIPTION": "Gain !B! Block. NL Remove your Frail and negative Dexterity."
+	},
+	
+	"kobeGreen:PoisonCocktail": {
+		"NAME": "Poison Cocktail",
+		"DESCRIPTION": "Discard up to !kobeGreen:SecondMagic! cards and apply !M! Poison for each card type among them.",
+		"EXTENDED_DESCRIPTION": ["Discard (Up to 3)."]
+	},
+	
+	"kobeGreen:Quagmire": {
+		"NAME": "Quagmire",
+		"DESCRIPTION": "Apply !M! Poison. NL Draw 1 card for each unique debuff the enemy has."
+	},
+	
+	"kobeGreen:SmokeAndMirrors": {
+		"NAME": "Smoke and Mirrors",
+		"DESCRIPTION": "Add !M! *Decoys into your hand. NL Your *Decoys are Retained this turn.",
+		"UPGRADE_DESCRIPTION": "Add !M! *Decoys+ into your hand. NL Your *Decoys are Retained this turn."
+	},
+	
+	"kobeGreen:WickedGift": {
+		"NAME": "Wicked Gift",
+		"DESCRIPTION": "Discard a card. NL If it is a Skill, NL apply !M! Vulnerable. NL If it is a non-Skill card, apply !M! Weak.",
+		"EXTENDED_DESCRIPTION": [
+			"Discard.    Skill: ",
+			" Vulnerable    Other: ",
+			" Weak"
+		]
+	},
+	
+	
+	
+	"kobeGreen:Adaptive": {
+		"NAME": "Adaptive",
+		"DESCRIPTION": "If you end your turn with more cards in your discard pile than in your draw pile, gain [G] next turn."
+	},
+	
+	"kobeGreen:Condition": {
+		"NAME": "Condition",
+		"DESCRIPTION": "Add !M! *Shivs into your hand. Whenever you discard a *Shiv, ALL enemies lose !kobeGreen:SecondMagic! Strength for 1 turn."
+	},
+	
+	"kobeGreen:Unpredictable": {
+		"NAME": "Unpredictable",
+		"DESCRIPTION": "Gain !M! Dexterity. NL At the start of your turn, exchange your Strength and Dexterity."
+	},
+	
+	
+	
+	"kobeGreen:Decoy": {
+		"NAME": "Decoy",
+		"DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain !B! Block NL and Exhaust.",
+		"EXTENDED_DESCRIPTION": ["I can't play this card."]
+	}
+	
+}

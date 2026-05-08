@@ -1,0 +1,49 @@
+{
+	
+	"kobeGreen:CamouflagePower": {
+		"NAME": "Camouflage",
+		"DESCRIPTIONS": ["As long as you have #yCamouflage, you have #b3 additional #yDexterity. Lose #b1 #yCamouflage whenever you play a #ySkill."]
+	},
+	
+	"kobeGreen:EnemyBufferPower": {
+		"NAME": "Buffer",
+		"DESCRIPTIONS": [
+			"Prevent the next time this enemy would lose HP.",
+			"Prevent the next #b",
+			" times this enemy would lose HP."
+		]
+	},
+	
+	"kobeGreen:RetainDecoysPower": {
+		"NAME": "Retain Decoys",
+		"DESCRIPTIONS": [
+			"Your #yDecoys are #yRetained this turn.",
+			"Your #yDecoys are #yRetained for the next #b",
+			" turns."
+		]
+	},
+	
+	
+	
+	"kobeGreen:AdaptivePower": {
+		"NAME": "Adaptive",
+		"DESCRIPTIONS": [
+			"If you end your turn with more cards in your discard pile than in your draw pile, gain ",
+			" next turn. Resolved before your hand is cleared."
+		]
+	},
+	
+	"kobeGreen:ConditionPower": {
+		"NAME": "Condition",
+		"DESCRIPTIONS": [
+			"Whenever you discard a Shiv, ALL enemies lose #b",
+			" Strength for #b1 turn."
+		]
+	},
+	
+	"kobeGreen:UnpredictablePower": {
+		"NAME": "Unpredictable",
+		"DESCRIPTIONS": ["At the start of your turn, exchange your #yStrength and #yDexterity."]
+	}
+	
+}

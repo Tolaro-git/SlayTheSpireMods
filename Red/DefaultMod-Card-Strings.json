@@ -1,0 +1,98 @@
+{
+  
+  "kobeRed:ComboStrike": {
+    "NAME": "Combo Strike",
+    "DESCRIPTION": "Deal !D! damage. NL Play the top !M! *Strikes from your draw pile.",
+    "EXTENDED_DESCRIPTION": [" NL (Play ", " Strike)", " Strikes)"]
+  },
+  
+  "kobeRed:Incinerate": {
+    "NAME": "Incinerate",
+    "DESCRIPTION": "Deal !D! damage. NL Choose 1 of the !M! top cards of your draw pile to Exhaust.",
+    "EXTENDED_DESCRIPTION": ["Choose ", " card to Exhaust."]
+  },
+  
+  "kobeRed:Seize": {
+    "NAME": "Seize",
+    "DESCRIPTION": "Deal !D! damage. NL Choose 1 of !M! non-Red Rare cards to add on top of your draw pile. Exhaust."
+  },
+  
+  "kobeRed:Infect": {
+    "NAME": "Infect",
+    "DESCRIPTION": "Add a *Void into your hand. NL Deal !D! damage for each unique Status in your kobered:Deck.",
+    "EXTENDED_DESCRIPTION": [" (", " time)", " times)"]
+  },
+  
+  "kobeRed:Traumatize": {
+    "NAME": "Traumatize",
+    "DESCRIPTION": "Deal !D! damage. NL Add 1 *Flashback on top of your draw pile."
+  },
+  
+  
+  
+  "kobeRed:ArmorOfPain": {
+    "NAME": "Armor of Pain",
+    "DESCRIPTION": "Gain !B! Block. NL The next time you are attacked this turn, lose !M! HP."
+  },
+  
+  "kobeRed:Bloodbath": {
+    "NAME": "Bloodbath",
+    "DESCRIPTION": "Add !kobeRed:SecondMagic! *Slimed into your hand. NL Gain [R] [R]. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add !kobeRed:SecondMagic! *Slimed into your hand. NL Gain [R] [R] [R]. NL Exhaust."
+  },
+  
+  "kobeRed:Bravado": {
+    "NAME": "Bravado",
+    "DESCRIPTION": "Exhaust a card. NL If it is Upgraded, gain !M! Strength.",
+    "EXTENDED_DESCRIPTION": ["Exhaust."]
+  },
+  
+  "kobeRed:Cautery": {
+    "NAME": "Cautery",
+    "DESCRIPTION": "Add a *Burn+ on top of your draw pile. NL Gain !M! Regen. NL Exhaust."
+  },
+  
+  "kobeRed:Defiance": {
+    "NAME": "Defiance",
+    "DESCRIPTION": "Gain !B! Block. NL Gain !M! additional Block for each enemy intending to attack."
+  },
+  
+  "kobeRed:Hotheaded": {
+    "NAME": "Hotheaded",
+    "DESCRIPTION": "Draw up to !kobeRed:SecondMagic! cards until their total cost reaches !M!.",
+    "UPGRADE_DESCRIPTION": "Draw cards until their total cost reaches !M!."
+  },
+  
+  "kobeRed:Parry": {
+    "NAME": "Parry",
+    "DESCRIPTION": "Gain !B! Block. NL Return !M! random Attack from your discard pile to your hand.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Return !M! random Attacks from your discard pile to your hand."
+  },
+  
+  
+  
+  "kobeRed:CriticalHit": {
+    "NAME": "Critical Hit",
+    "DESCRIPTION": "Whenever you would deal !kobeRed:SecondMagic! attack damage or more, increase it by !M!."
+  },
+  
+  
+  "kobeRed:PowerTrip": {
+    "NAME": "Power Trip",
+    "DESCRIPTION": "Whenever you apply a debuff to an enemy, gain !M! Vigor."
+  },
+  
+  "kobeRed:ScabScales": {
+    "NAME": "Scab Scales",
+    "DESCRIPTION": "Whenever you lose HP, gain !M! Block.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you lose HP, gain !M! Block."
+  },
+  
+  
+  
+  "kobeRed:Flashback": {
+    "NAME": "Flashback",
+    "DESCRIPTION": "Retain. NL Apply !M! Weak. NL Apply !M! Vulnerable. NL Exhaust."
+  }
+  
+}

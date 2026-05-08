@@ -1,0 +1,9 @@
+[
+    
+    {
+        "PROPER_NAME": "Common",
+        "NAMES": ["common"],
+        "DESCRIPTION": "Starter cards and created cards are Common. Curses and Statuses are not."
+    }
+
+]
