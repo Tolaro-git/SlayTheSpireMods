@@ -8,7 +8,7 @@ Translation files for mods below:
   
   Purple: https://steamcommunity.com/sharedfiles/filedetails/?id=3342218134
 
-Fork this, and notify me via the workshop page once you are done. Or show me your files somehow if you don't do GitHub
+Fork this, and notify me via the workshop page once you are done. Or show me your files somehow if you don't do git.
 
 
 # Translation Guide
@@ -29,11 +29,11 @@ Fork this, and notify me via the workshop page once you are done. Or show me you
     
     !kobeBlue:SecondMagic!: Same as above
     
-    kobepurple:Common: This is how you put a mod-defined keyword. It's case sensitive.
+    kobepurple:Mykeyword: This is how you put a mod-defined keyword. It's case sensitive.
     
     *: Colored word. Game automatically color keywords, so this is mainly for created cards.
 
-    NL: Manual line break. These are optional and you can add/remove/relocate them however you want. In practice, you only use them for visual separation between unrelated card effects, as the game automatically inserts line breaks to fit the text in the text box.
+    NL: Manual line break. These are optional and you can add/remove/relocate them however you want. In practice though, you only use them for visual separation between unrelated card effects as the game deal with long text automatically.
   
   
 ## Power Tooltips:
