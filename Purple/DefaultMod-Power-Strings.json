@@ -1,40 +1,40 @@
 {
 	
 	"kobePurple:RetainToUpgradePower": {
-		"NAME": "Retain to Upgrade",
+		"NAME": "Оставить для улучшения",
 		"DESCRIPTIONS": [
-			"At the end of this turn, #yRetain up to #b",
-			" card. #yUpgrade it for the rest of combat.",
-			" cards. #yUpgrade them for the rest of combat.",
-			"Retain and Upgrade."
+			"В конце хода, #yОставляйте до #b",
+			" карты. #yУлучшите её до конца боя.",
+			" карт. #yУлучшите их до конца боя.",
+			"Оставляйте и улучшайте."
 		]
 	},
 	
 	"kobePurple:ForeshadowPower": {
-		"NAME": "Foreshadow",
+		"NAME": "Предзнаменование",
 		"DESCRIPTIONS": [
-			"Next turn, your first card is played twice.",
-			"Next turn, your first #b", " cards are played twice.",
-			"Your next card is played twice this turn.",
-			"Your next #b", " cards are played twice this turn."
+			"В следующем ходу первая разыгранная карта разыграется повторно.",
+			"В следующем ходу первые разыгранные #b", " карты разыгрываются повторно.",
+			"Следующая разыгранная карта разыграется повторно в этом ходу.",
+			"Следующие разыгранные #b", " карты разыгрываются повторно в этом ходу."
 		]
 	},
 	
 	
 	
 	"kobePurple:BackToBasicsPower": {
-		"NAME": "Back to Basics",
+		"NAME": "Назад к основам",
 		"DESCRIPTIONS": [
-			"If you have #b5 or more Common cards in your hand at the start of your turn, gain #b",
-			" Block. Starter cards and created cards are Common. #yCurses and #yStatuses are not."
+			"Если у вас #b5 или больше Обычных карт в руке на начало хода, даёт #b",
+			" Защиты. Стартовые и создаваемые карты считаются Обычными. #yПроклятья и #yСтатусы - нет."
 		]
 	},
 	
 	"kobePurple:RelentlessPower": {
-		"NAME": "Relentless",
+		"NAME": "Безжалостность",
 		"DESCRIPTIONS": [
-			"Whenever you play your sixth card each turn, draw #b",
-			" cards and gain ",
+			"Каждый раз как вы разыгрываете шестую карту в одном ходу, возьмите #b",
+			" карты и получите ",
 			"."
 		]
 	}
