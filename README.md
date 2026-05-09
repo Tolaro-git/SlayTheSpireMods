@@ -10,7 +10,7 @@ Language files for these mods:
 
 Fork this, and notify me via the workshop page once you are done. 
 
-If you need additional help, ask here or catch me on Discord: https://discord.gg/GAnNc6d23Y
+If you need any further help, ask here or catch me on Discord: https://discord.gg/GAnNc6d23Y
 
 
 # Translation Guide
