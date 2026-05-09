@@ -18,7 +18,7 @@
 	
 	"kobeBlue:HeavyDutyPower": {
 		"NAME": "Сверхпрочность",
-		"DESCRIPTIONS": ["Каждый раз при получении негативного эффекта даёт #b", " #yАртефакт."]
+		"DESCRIPTIONS": ["При получении негативного эффекта даёт #b", " #yАртефакт."]
 	},
 	
 	"kobeBlue:TrialAndErrorPower": {
