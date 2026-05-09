@@ -8,7 +8,7 @@ Language files for these mods:
   
   Purple: https://steamcommunity.com/sharedfiles/filedetails/?id=3342218134
 
-Fork this, and notify me via the workshop page once you are done. 
+Fork this, translate, and let me know once you are done. 
 
 If you need any further help, ask here or catch me on Discord: https://discord.gg/GAnNc6d23Y
 
@@ -21,22 +21,22 @@ If you need any further help, ask here or catch me on Discord: https://discord.g
   
   Below are the special symbols used in card descriptions. Do not alter them.
   
-    [R] [G] [B] [W]: A single energy symbol. Red/Green/Blue/Purple respectively.
+    [R] [G] [B] [W]: Single energy symbol. Red/Green/Blue/Purple respectively.
   
     !D!: Damage
     
     !B!: Block
     
-    !M!: Other values, such as debuff duration and draw count
+    !M!: Other numerical values, such as debuff duration and draw count
     
     !kobeBlue:SecondMagic!: Same as above
-    
-    kobeblue:Mykeyword: This is how you put a mod-defined keyword. Case sensitive.
     
     *: Manual word highlight. Keywords are highlighted automatically, so this is mainly for created cards like Shivs.
 
     NL: Manual line break. These are optional and you can add/remove/relocate them however you want. In practice though, you're only going to use them for visual separation between unrelated card effects as the game can handle long texts on its own.
   
+    kobeblue:Mykeyword: Mod-defined keyword
+    
   
 ## Power Tooltips
   
