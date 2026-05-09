@@ -1,24 +1,24 @@
 {
 	"kobeRed:ArmorOfPainPower": {
-		"NAME": "Armor of Pain",
-		"DESCRIPTIONS": ["The next time you are attacked this turn, lose #b", " HP."]
+		"NAME": "Доспехи боли",
+		"DESCRIPTIONS": ["Следующий раз когда вас атакуют, потеряйте #b", " ОЗ."]
 	},
 	
 	
 	
 	"kobeRed:CriticalHitPower": {
-		"NAME": "Critical Hit",
-		"DESCRIPTIONS": ["Whenever you would deal #b", " attack damage or more, increase it by #b", ". Applied before #yFlight and #yBlock."]
+		"NAME": "Критический урон",
+		"DESCRIPTIONS": ["Каждый раз, когда в нанесли бы #b", " урона или больше, увеличьте его на #b", ". Применяется перед #yПолетом и #yЗащитой."]
 	},
 	
 	"kobeRed:PowerTripPower": {
-		"NAME": "Power Trip",
-		"DESCRIPTIONS": ["Whenever you apply a debuff to an enemy, gain #b", " #yVigor."]
+		"NAME": "Власть силы",
+		"DESCRIPTIONS": ["Каждый раз при накладывании негативного эффекта на врага, получите #b", " #yБодрости."]
 	},
 	
 	"kobeRed:ScabScalesPower": {
-		"NAME": "Scab Scales",
-		"DESCRIPTIONS": ["Whenever you lose HP, gain #b", " #yBlock."]
+		"NAME": "Струпья",
+		"DESCRIPTIONS": ["Каждый раз при потере ОЗ, получите #b", " #yЗащиты."]
 	}
 	
 }
