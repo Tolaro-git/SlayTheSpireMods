@@ -3,13 +3,13 @@
   "kobeRed:ComboStrike": {
     "NAME": "Комбо удар",
     "DESCRIPTION": "Наносит !D! урона. NL Разыгрывает !M! *Удара с верха стопки добора.",
-    "EXTENDED_DESCRIPTION": [" NL (Play ", " Strike)", " Strikes)"]
+    "EXTENDED_DESCRIPTION": [" NL (Разыграет ", " Удар)", " Удара)"]
   },
   
   "kobeRed:Incinerate": {
     "NAME": "Сжечь",
     "DESCRIPTION": "Наносит !D! урона. NL *Сожгите 1 из !M! на выбор с верха стопки добора.",
-    "EXTENDED_DESCRIPTION": ["Choose ", " card to Exhaust."]
+    "EXTENDED_DESCRIPTION": ["Выберите ", " карт для Сжигания."]
   },
   
   "kobeRed:Seize": {
@@ -20,7 +20,7 @@
   "kobeRed:Infect": {
     "NAME": "Заразить",
     "DESCRIPTION": "Добавляет *Бездну в руку. NL Наносит !D! урона за каждый уникальный *Статус в вашей kobered:Deck.",
-    "EXTENDED_DESCRIPTION": [" (", " time)", " times)"]
+    "EXTENDED_DESCRIPTION": [" (", " раз)", " раз)"]
   },
   
   "kobeRed:Traumatize": {
@@ -44,8 +44,7 @@
   "kobeRed:Bravado": {
     "NAME": "Бравада",
     "DESCRIPTION": "Выберите карту для *Сожжения. NL Если она улучшена, даёт !M! *Силу.",
-    "UPGRADE_DESCRIPTION": "Выберите карту для *Сожжения. NL Если она улучшена, даёт !M! *Силы."
-    "EXTENDED_DESCRIPTION": ["Exhaust."]
+    "EXTENDED_DESCRIPTION": ["Сжигается."]
   },
   
   "kobeRed:Cautery": {
