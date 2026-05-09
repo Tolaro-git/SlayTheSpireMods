@@ -1,49 +1,49 @@
 {
 	
 	"kobeGreen:CamouflagePower": {
-		"NAME": "Camouflage",
-		"DESCRIPTIONS": ["As long as you have #yCamouflage, you have #b3 additional #yDexterity. Lose #b1 #yCamouflage whenever you play a #ySkill."]
+		"NAME": "Камуфляж",
+		"DESCRIPTIONS": ["Пока у вас есть #yКамуфляж, у вас есть #b3 дополнительной #yЛовкости. Потеряйте #b1 #yКамуфляж при разыгрывании #yНавыка."]
 	},
 	
 	"kobeGreen:EnemyBufferPower": {
-		"NAME": "Buffer",
+		"NAME": "Буфер",
 		"DESCRIPTIONS": [
-			"Prevent the next time this enemy would lose HP.",
-			"Prevent the next #b",
-			" times this enemy would lose HP."
+			"Предотвращяет следующую потерю ОЗ врагом.",
+			"Предотвращает следующие #b",
+			" потери ОЗ врагом."
 		]
 	},
 	
 	"kobeGreen:RetainDecoysPower": {
-		"NAME": "Retain Decoys",
+		"NAME": "Оставить обманки",
 		"DESCRIPTIONS": [
-			"Your #yDecoys are #yRetained this turn.",
-			"Your #yDecoys are #yRetained for the next #b",
-			" turns."
+			"Ваши #yОбманки #yОставляются в этом ходу.",
+			"Ваши #yОбманки #yОставляются следующие #b",
+			" хода."
 		]
 	},
 	
 	
 	
 	"kobeGreen:AdaptivePower": {
-		"NAME": "Adaptive",
+		"NAME": "Адаптация",
 		"DESCRIPTIONS": [
-			"If you end your turn with more cards in your discard pile than in your draw pile, gain ",
-			" next turn. Resolved before your hand is cleared."
+			"Если вы окончите ход с большим количеством карт в стопке сброса, нежели в стопке добора, получите ",
+			" в следующем ходу. Применяется перед очисткой руки."
 		]
 	},
 	
 	"kobeGreen:ConditionPower": {
-		"NAME": "Condition",
+		"NAME": "Состояние",
 		"DESCRIPTIONS": [
-			"Whenever you discard a Shiv, ALL enemies lose #b",
-			" Strength for #b1 turn."
+			"При каждом сбросе Заточки, ВСЕ враги теряют #b",
+			" Силы на #b1 ход."
 		]
 	},
 	
 	"kobeGreen:UnpredictablePower": {
-		"NAME": "Unpredictable",
-		"DESCRIPTIONS": ["At the start of your turn, exchange your #yStrength and #yDexterity."]
+		"NAME": "Непредсказуемость",
+		"DESCRIPTIONS": ["В начале вашего хода, поменяйте ваши #yСилу и #yЛовкость местами."]
 	}
 	
 }

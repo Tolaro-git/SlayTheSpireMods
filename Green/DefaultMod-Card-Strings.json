@@ -1,105 +1,105 @@
 {
 	
 	"kobeGreen:DeftStrike": {
-		"NAME": "Deft Strike",
-		"DESCRIPTION": "Deal !D! damage twice. NL Positive Dexterity increases the damage of this card.",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. NL Positive Dexterity increases the damage of this card."
+		"NAME": "Ловкий удар",
+		"DESCRIPTION": "Наносит !D! урона дважды. NL Положительная *Ловкость влияет на урон этой карты.",
+		"UPGRADE_DESCRIPTION": "Наносит !D! урона !M! раза. NL Положительная *Ловкость влияет на урон этой карты."
 	},
 	
 	"kobeGreen:HuntDown": {
-		"NAME": "Hunt Down",
-		"DESCRIPTION": "Deal !D! damage. NL Whenever this card is drawn, increase its damage by !M! this combat."
+		"NAME": "Выследить",
+		"DESCRIPTION": "Наносит !D! урона. NL Каждый раз когда эта карта добирается, повышает наносимый ей урон на !M! в этом бою."
 	},
 	
 	"kobeGreen:Petrify": {
-		"NAME": "Petrify",
-		"DESCRIPTION": "Deal !D! damage. NL Enemy prevents the next time it would lose HP."
+		"NAME": "Окаменение",
+		"DESCRIPTION": "Наносит !D! урона. NL Противник не получит следующий урон по ОЗ."
 	},
 	
 	
 	
 	"kobeGreen:AceInTheHole": {
-		"NAME": "Ace in the Hole",
-		"DESCRIPTION": "Retain. NL Add !M! *Shivs+ into your hand."
+		"NAME": "Туз в рукаве",
+		"DESCRIPTION": "Остается. NL Добавляет !M! *Заточки+ в руку."
 	},
 	
 	"kobeGreen:Camouflage": {
-		"NAME": "Camouflage",
-		"DESCRIPTION": "You have 3 additional Dexterity until !M! more Skills are played.",
-		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL You have 3 additional Dexterity until !M! more Skills are played."
+		"NAME": "Камуфляж",
+		"DESCRIPTION": "Дает 3 дополнительные Ловкости пока не будут разыграны !M! Навыка.",
+		"UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Дает 3 дополнительные Ловкости пока не будут разыграны !M! Навыка."
 	},
 	
 	"kobeGreen:Improvise": {
-		"NAME": "Improvise",
-		"DESCRIPTION": "Choose 1 of !M! non-Green Skills to add into your hand. NL It costs 1 less this turn. NL Exhaust."
+		"NAME": "Импровизация",
+		"DESCRIPTION": "Добавьте 1 из !M! не-Зеленых Навыков в руку. NL Он стоит на 1 меньше в этом ходу. NL Сжигается."
 	},
 	
 	"kobeGreen:InvisibleThreads": {
-		"NAME": "Invisible Threads",
-		"DESCRIPTION": "Shuffle up to !M! cards from your discard pile into your draw pile. NL Exhaust.",
-		"UPGRADE_DESCRIPTION": "Shuffle up to !M! cards from your discard pile into your draw pile.",
+		"NAME": "Невидимые нити",
+		"DESCRIPTION": "Замешайте до !M! карт из стопки сброса в стопку добора. NL Сжигается.",
+		"UPGRADE_DESCRIPTION": "Замешайте до !M! карт из стопки сброса в стопку добора.",
 		"EXTENDED_DESCRIPTION": [
-			"Choose up to ",
-			" card to shuffle into your draw pile.",
-			" cards to shuffle into your draw pile."
+			"Выберите до",
+			" карт для замешивание в стопку добора.",
+			" карт для замешивание в стопку добора."
 		]
 	},
 	
 	"kobeGreen:Poise": {
-		"NAME": "Poise",
-		"DESCRIPTION": "Gain !B! Block. NL Remove your Frail and negative Dexterity."
+		"NAME": "Выдержка",
+		"DESCRIPTION": "Даёт !B! Защиты. NL Убирает Хрупкость и негативную Ловкость."
 	},
 	
 	"kobeGreen:PoisonCocktail": {
-		"NAME": "Poison Cocktail",
-		"DESCRIPTION": "Discard up to !kobeGreen:SecondMagic! cards and apply !M! Poison for each card type among them.",
-		"EXTENDED_DESCRIPTION": ["Discard (Up to 3)."]
+		"NAME": "Ядовитый коктейль",
+		"DESCRIPTION": "Сбросьте до !kobeGreen:SecondMagic! карт и наложите !M! Яда за каждый тип сброшенной карты.",
+		"EXTENDED_DESCRIPTION": ["Сбросьте (До 3)."]
 	},
 	
 	"kobeGreen:Quagmire": {
-		"NAME": "Quagmire",
-		"DESCRIPTION": "Apply !M! Poison. NL Draw 1 card for each unique debuff the enemy has."
+		"NAME": "Болото",
+		"DESCRIPTION": "Накладывает !M! Яда. NL Вытяните 1 карту за каждый уникальный негативный эффект у врага."
 	},
 	
 	"kobeGreen:SmokeAndMirrors": {
-		"NAME": "Smoke and Mirrors",
-		"DESCRIPTION": "Add !M! *Decoys into your hand. NL Your *Decoys are Retained this turn.",
-		"UPGRADE_DESCRIPTION": "Add !M! *Decoys+ into your hand. NL Your *Decoys are Retained this turn."
+		"NAME": "Дым и отражения",
+		"DESCRIPTION": "Добавляет !M! *Обманки в руку. NL Ваши *Обманки Оставляются на этот ход.",
+		"UPGRADE_DESCRIPTION": "Добавляет !M! *Обманки+ в руку. NL Ваши *Обманки Оставляются на этот ход."
 	},
 	
 	"kobeGreen:WickedGift": {
-		"NAME": "Wicked Gift",
-		"DESCRIPTION": "Discard a card. NL If it is a Skill, NL apply !M! Vulnerable. NL If it is a non-Skill card, apply !M! Weak.",
+		"NAME": "Зловещий подарок",
+		"DESCRIPTION": "Сбросьте карту. NL Если это Навык, NL наложите !M! Уязвимости. NL В противном случае, наложите !M! Слабости.",
 		"EXTENDED_DESCRIPTION": [
-			"Discard.    Skill: ",
-			" Vulnerable    Other: ",
-			" Weak"
+			"Сбросить.    Навык: ",
+			" Уязвимости    Остальное: ",
+			" Слабости"
 		]
 	},
 	
 	
 	
 	"kobeGreen:Adaptive": {
-		"NAME": "Adaptive",
-		"DESCRIPTION": "If you end your turn with more cards in your discard pile than in your draw pile, gain [G] next turn."
+		"NAME": "Адаптация",
+		"DESCRIPTION": "Если вы окончите ход с большим количеством карт в стопке сброса, нежели в стопке добора, получите [G] в следующем ходу."
 	},
 	
 	"kobeGreen:Condition": {
-		"NAME": "Condition",
-		"DESCRIPTION": "Add !M! *Shivs into your hand. Whenever you discard a *Shiv, ALL enemies lose !kobeGreen:SecondMagic! Strength for 1 turn."
+		"NAME": "Состояние",
+		"DESCRIPTION": "Добавьте !M! *Заточки в руку. Каждый раз при сбросе *Заточки, ВСЕ враги потеряют !kobeGreen:SecondMagic! Силы на 1 ход."
 	},
 	
 	"kobeGreen:Unpredictable": {
-		"NAME": "Unpredictable",
-		"DESCRIPTION": "Gain !M! Dexterity. NL At the start of your turn, exchange your Strength and Dexterity."
+		"NAME": "Непредсказуемость",
+		"DESCRIPTION": "Даёт !M! Ловкости. NL В начале хода, поменяйте Силу и Ловкость местами."
 	},
 	
 	
 	
 	"kobeGreen:Decoy": {
-		"NAME": "Decoy",
-		"DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, gain !B! Block NL and Exhaust.",
-		"EXTENDED_DESCRIPTION": ["I can't play this card."]
+		"NAME": "Обманка",
+		"DESCRIPTION": "Неиграбельная. NL При сбросе даёт !B! Защиты NL и Сжигается.",
+		"EXTENDED_DESCRIPTION": ["Я не могу разыграть эту карту."]
 	}
 	
 }
