@@ -1,5 +1,5 @@
-Translation files for mods below:
-
+Language files for these mods:
+  
   Red: https://steamcommunity.com/sharedfiles/filedetails/?id=3032112884
   
   Green: https://steamcommunity.com/sharedfiles/filedetails/?id=3219969350
@@ -8,32 +8,32 @@ Translation files for mods below:
   
   Purple: https://steamcommunity.com/sharedfiles/filedetails/?id=3342218134
 
-Fork this, and notify me via the workshop page once you are done. Or show me your files somehow if you don't do git.
+Fork this, and notify me via the workshop page once you are done. 
 
 
 # Translation Guide
 
 ## Card Descriptions:
 
-  Keywords are those yellow words that display a tooltip when hovered over. You need to format properly so the game recognize them. They must be capitalized in the translation file, and must be separated from the rest of the text with spaces, even in languages that normally do not use spaces.
+  You need to format keywords properly so the game can recognize them, otherwise there will not be no highlights and no tooltips. They must be capitalized in the translation file, and must be separated from the rest of the text with spaces, even in languages that normally do not use spaces.
   
   Below are the special symbols used in card descriptions. Do not alter them.
   
-    [R] [G] [B] [W]: Red, Green, Blue and Purple energy symbols respectively
+    [R] [G] [B] [W]: A single energy symbol. Red/Green/Blue/Purple respectively.
   
-    !D!: Damage amount
+    !D!: Damage
     
-    !B!: Block amount
+    !B!: Block
     
     !M!: Other values, such as debuff duration and draw count
     
     !kobeBlue:SecondMagic!: Same as above
     
-    kobepurple:Mykeyword: This is how you put a mod-defined keyword. It's case sensitive.
+    kobeblue:Mykeyword: This is how you put a mod-defined keyword. It's case sensitive.
     
-    *: Colored word. Game automatically color keywords, so this is mainly for created cards.
+    *: Colored word. Keywords are highlighted automatically, so this is mainly for created cards like Shivs.
 
-    NL: Manual line break. These are optional and you can add/remove/relocate them however you want. In practice though, you only use them for visual separation between unrelated card effects as the game deal with long text automatically.
+    NL: Manual line break. These are optional and you can add/remove/relocate them however you want. In practice though, you only use them for visual separation between unrelated card effects as the game can handle long texts on its own.
   
   
 ## Power Tooltips:
@@ -45,3 +45,4 @@ Fork this, and notify me via the workshop page once you are done. Or show me you
     #y: Colored word (yellow)
     
     #b: Colored number (blue)
+
