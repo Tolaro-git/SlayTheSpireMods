@@ -25,7 +25,7 @@
 	
 	"kobePurple:EbbAndFlow": {
 		"NAME": "Приливы и отливы",
-		"DESCRIPTION": "Остается. NL Перейдите в случайную Стойку. NL Сжигается."
+		"DESCRIPTION": "Оставляется. NL Перейдите в случайную Стойку. NL Сжигается."
 	},
 	
 	"kobePurple:Ecstasy": {
@@ -54,13 +54,13 @@
 	
 	"kobePurple:NeuralOverload": {
 		"NAME": "Нейронная перегрузка",
-		"DESCRIPTION": "Наложите !M! *Меток. NL ВСЕ *Отмеченные враги теряют !kobePurple:SecondMagic! Силы в этом ходу."
+		"DESCRIPTION": "Наложите !M! Метки. NL ВСЕ *Отмеченные враги теряют !kobePurple:SecondMagic! Силы в этом ходу."
 	},
 	
 	"kobePurple:Predict": {
 		"NAME": "Предсказать",
 		"DESCRIPTION": "Предположите тип карты на верху стопки добора. NL Разыграйте ее если угадали.",
-		"UPGRADE_DESCRIPTION": "Предположите тип карты на верху стопки добора. NL Разыграйте ее если угадали, в противном случае предскажите !M! карты."
+		"UPGRADE_DESCRIPTION": "Предположите тип карты на верху стопки добора. NL Разыграйте ее если угадали, в противном случае Предскажите !M! карты."
 	},
 	
 	"kobePurple:Ward": {
@@ -74,7 +74,7 @@
 	
 	"kobePurple:BackToBasics": {
 		"NAME": "Назад к основам",
-		"DESCRIPTION": "Если у вас есть 5 или больше kobepurple:Common картв руке на начало хода, даёт !M! Защиты."
+		"DESCRIPTION": "Если у вас есть 5 или больше kobepurple:Common карт в руке на начало хода, даёт !M! Защиты."
 	},
 	
 	"kobePurple:Relentless": {
