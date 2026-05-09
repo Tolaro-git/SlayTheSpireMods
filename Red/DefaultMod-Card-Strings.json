@@ -1,98 +1,99 @@
 {
   
   "kobeRed:ComboStrike": {
-    "NAME": "Combo Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Play the top !M! *Strikes from your draw pile.",
+    "NAME": "Комбо удар",
+    "DESCRIPTION": "Наносит !D! урона. NL Разыгрывает !M! *Удара с верха стопки добора.",
     "EXTENDED_DESCRIPTION": [" NL (Play ", " Strike)", " Strikes)"]
   },
   
   "kobeRed:Incinerate": {
-    "NAME": "Incinerate",
-    "DESCRIPTION": "Deal !D! damage. NL Choose 1 of the !M! top cards of your draw pile to Exhaust.",
+    "NAME": "Сжечь",
+    "DESCRIPTION": "Наносит !D! урона. NL *Сожгите 1 из !M! на выбор с верха стопки добора.",
     "EXTENDED_DESCRIPTION": ["Choose ", " card to Exhaust."]
   },
   
   "kobeRed:Seize": {
-    "NAME": "Seize",
-    "DESCRIPTION": "Deal !D! damage. NL Choose 1 of !M! non-Red Rare cards to add on top of your draw pile. Exhaust."
+    "NAME": "Изъять",
+    "DESCRIPTION": "Наносит !D! урона. NL Выберите 1 из !M! не-Красных Редких карт и добавьте ее на верх стопки добора. *Сжигается."
   },
   
   "kobeRed:Infect": {
-    "NAME": "Infect",
-    "DESCRIPTION": "Add a *Void into your hand. NL Deal !D! damage for each unique Status in your kobered:Deck.",
+    "NAME": "Заразить",
+    "DESCRIPTION": "Добавляет *Бездну в руку. NL Наносит !D! урона за каждый уникальный *Статус в вашей kobered:Deck.",
     "EXTENDED_DESCRIPTION": [" (", " time)", " times)"]
   },
   
   "kobeRed:Traumatize": {
-    "NAME": "Traumatize",
-    "DESCRIPTION": "Deal !D! damage. NL Add 1 *Flashback on top of your draw pile."
+    "NAME": "Травмировать",
+    "DESCRIPTION": "Наносит !D! урона. NL Добавит 1 *Напоминание на верх стопки добора."
   },
   
   
   
   "kobeRed:ArmorOfPain": {
-    "NAME": "Armor of Pain",
-    "DESCRIPTION": "Gain !B! Block. NL The next time you are attacked this turn, lose !M! HP."
+    "NAME": "Доспехи боли",
+    "DESCRIPTION": "Даёт !B! Защиты. NL В следующий раз когда вас атакуют в этом ходу, отнимет !M! ОЗ."
   },
   
   "kobeRed:Bloodbath": {
-    "NAME": "Bloodbath",
-    "DESCRIPTION": "Add !kobeRed:SecondMagic! *Slimed into your hand. NL Gain [R] [R]. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Add !kobeRed:SecondMagic! *Slimed into your hand. NL Gain [R] [R] [R]. NL Exhaust."
+    "NAME": "Кровавая баня",
+    "DESCRIPTION": "Добавляет !kobeRed:SecondMagic! *В слизи в руку. NL Даёт [R] [R]. NL Сжигается.",
+    "UPGRADE_DESCRIPTION": "Добавляет !kobeRed:SecondMagic! *В слизи в руку. NL Даёт [R] [R] [R]. NL Сжигается."
   },
   
   "kobeRed:Bravado": {
-    "NAME": "Bravado",
-    "DESCRIPTION": "Exhaust a card. NL If it is Upgraded, gain !M! Strength.",
+    "NAME": "Бравада",
+    "DESCRIPTION": "Выберите карту для *Сожжения. NL Если она улучшена, даёт !M! *Силу.",
+    "UPGRADE_DESCRIPTION": "Выберите карту для *Сожжения. NL Если она улучшена, даёт !M! *Силы."
     "EXTENDED_DESCRIPTION": ["Exhaust."]
   },
   
   "kobeRed:Cautery": {
-    "NAME": "Cautery",
-    "DESCRIPTION": "Add a *Burn+ on top of your draw pile. NL Gain !M! Regen. NL Exhaust."
+    "NAME": "Прижечь",
+    "DESCRIPTION": "Добавляет *Ожог+ на верх стопки добора. NL Даёт !M! *Регенерации. NL *Сжигается."
   },
   
   "kobeRed:Defiance": {
-    "NAME": "Defiance",
-    "DESCRIPTION": "Gain !B! Block. NL Gain !M! additional Block for each enemy intending to attack."
+    "NAME": "Неповиновение",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Дополнительно даёт !M! Защиты за каждого врага, собирающегося атаковать."
   },
   
   "kobeRed:Hotheaded": {
-    "NAME": "Hotheaded",
-    "DESCRIPTION": "Draw up to !kobeRed:SecondMagic! cards until their total cost reaches !M!.",
-    "UPGRADE_DESCRIPTION": "Draw cards until their total cost reaches !M!."
+    "NAME": "Горячая голова",
+    "DESCRIPTION": "Вы берёте до !kobeRed:SecondMagic! карт, пока их общая стоимость не станет !M!.",
+    "UPGRADE_DESCRIPTION": "Вы берёте карты, пока их общая стоимость не станет !M!."
   },
   
   "kobeRed:Parry": {
-    "NAME": "Parry",
-    "DESCRIPTION": "Gain !B! Block. NL Return !M! random Attack from your discard pile to your hand.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Return !M! random Attacks from your discard pile to your hand."
+    "NAME": "Парировать",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Возвращает !M! случайную Атаку из стопки сброса в руку.",
+    "UPGRADE_DESCRIPTION": "Даёт !B! Защиты. NL Возвращает !M! случайные Атаки из стопки сброса в руку."
   },
   
   
   
   "kobeRed:CriticalHit": {
-    "NAME": "Critical Hit",
-    "DESCRIPTION": "Whenever you would deal !kobeRed:SecondMagic! attack damage or more, increase it by !M!."
+    "NAME": "Критический урон",
+    "DESCRIPTION": "Каждый раз, когда в нанесли бы !kobeRed:SecondMagic! урона или больше, увеличьте его на !M!."
   },
   
   
   "kobeRed:PowerTrip": {
-    "NAME": "Power Trip",
-    "DESCRIPTION": "Whenever you apply a debuff to an enemy, gain !M! Vigor."
+    "NAME": "Власть силы",
+    "DESCRIPTION": "Каждый раз при накладывании негативного эффекта на врага, получите !M! Бодрости."
   },
   
   "kobeRed:ScabScales": {
-    "NAME": "Scab Scales",
-    "DESCRIPTION": "Whenever you lose HP, gain !M! Block.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you lose HP, gain !M! Block."
+    "NAME": "Струпья",
+    "DESCRIPTION": "Каждый раз при потере ОЗ, получите !M! Защиты.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL Каждый раз при потере ОЗ, получите !M! Защиты."
   },
   
   
   
   "kobeRed:Flashback": {
-    "NAME": "Flashback",
-    "DESCRIPTION": "Retain. NL Apply !M! Weak. NL Apply !M! Vulnerable. NL Exhaust."
+    "NAME": "Напоминание",
+    "DESCRIPTION": "Остается. NL Накладывает !M! Слабость. NL Накладывает !M! Уязвимость. NL Сжигается."
   }
   
 }
