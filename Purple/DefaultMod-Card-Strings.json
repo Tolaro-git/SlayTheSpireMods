@@ -1,109 +1,109 @@
 {
 	
 	"kobePurple:Choreograph": {
-		"NAME": "Choreograph",
-		"DESCRIPTION": "Deal !D! damage. NL At the end of this turn, Retain up to !M! card. NL Upgrade it for the rest of combat.",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL At the end of this turn, Retain up to !M! cards. NL Upgrade them for the rest of combat."
+		"NAME": "Хореография",
+		"DESCRIPTION": "Наносит !D! урона. NL В конце хода Оставьте !M! карту. NL Улучшите её до конца боя.",
+		"UPGRADE_DESCRIPTION": "Наносит !D! урона. NL В конце хода Оставьте до !M! карт. NL Улучшите их до конца боя."
 	},
 	
 	"kobePurple:Condemn": {
-		"NAME": "Condemn",
-		"DESCRIPTION": "If you are in Divinity, halve each enemy's HP, otherwise deal !D! damage !M! times."
+		"NAME": "Осудить",
+		"DESCRIPTION": "Если вы в Божественности, ополовиньте ОЗ каждого врага, в противном случае нанесите !D! урона !M! раз."
 	},
 	
 	"kobePurple:HeroicStrike": {
-		"NAME": "Heroic Strike",
-		"DESCRIPTION": "Deal !D! damage. NL Add a *Miracle into your hand."
+		"NAME": "Героический удар",
+		"DESCRIPTION": "Наносит !D! урона. NL Добавляет *Чудо в руку."
 	},
 	
 	
 	
 	"kobePurple:Conundrum": {
-		"NAME": "Conundrum",
-		"DESCRIPTION": "If the enemy has Weak, apply !M! Vulnerable, otherwise apply !kobePurple:SecondMagic! Weak."
+		"NAME": "Загадка",
+		"DESCRIPTION": "Если у врага есть Слабость, наложите !M! Уязвимость, в противном случае наложите !kobePurple:SecondMagic! Слабость."
 	},
 	
 	"kobePurple:EbbAndFlow": {
-		"NAME": "Ebb and Flow",
-		"DESCRIPTION": "Retain. NL Enter a random Stance. NL Exhaust."
+		"NAME": "Приливы и отливы",
+		"DESCRIPTION": "Остается. NL Перейдите в случайную Стойку. NL Сжигается."
 	},
 	
 	"kobePurple:Ecstasy": {
-		"NAME": "Ecstasy",
-		"DESCRIPTION": "Gain !M! Vigor. NL Gain Mantra equal to your Vigor. NL Exhaust.",
-		"UPGRADE_DESCRIPTION": "Gain !M! Vigor. NL Gain Mantra equal to your Vigor."
+		"NAME": "Экстаз",
+		"DESCRIPTION": "Даёт !M! Бодрость. NL Дает Мантру равную имеющеся Бодрости. NL Сжигается.",
+		"UPGRADE_DESCRIPTION": "Даёт !M! Бодрость. NL Дает Мантру равную имеющеся Бодрости."
 	},
 	
 	"kobePurple:Fathom": {
-		"NAME": "Fathom",
-		"DESCRIPTION": "Scry the bottom !M! cards of your draw pile, then put its new bottom card into your hand.",
-		"EXTENDED_DESCRIPTION": ["Choose any number of cards to discard. The rightmost remaining card will be put into your hand."]
+		"NAME": "Погружение",
+		"DESCRIPTION": "Вы предсказываете !M! карт с низа стопки добора, затем кладете нижнюю карту в руку.",
+		"EXTENDED_DESCRIPTION": ["Выберите любое количество карт для сброса. Оставшиеся справа карты будут добавлены в руку."]
 	},
 	
 	"kobePurple:Foreshadow": {
-		"NAME": "Foreshadow",
-		"DESCRIPTION": "Next turn, your first card is played twice. NL End your turn.",
-		"UPGRADE_DESCRIPTION": "Next turn, your first card is played twice."
+		"NAME": "Предзнаменование",
+		"DESCRIPTION": "В следующем ходу первыя разыгранная карта разыграется повторно. NL Завершите свой ход.",
+		"UPGRADE_DESCRIPTION": "В следующем ходу первыя разыгранная карта разыграется повторно."
 	},
 	
 	"kobePurple:KnowYourself": {
-		"NAME": "Know Yourself",
-		"DESCRIPTION": "Duplicate the leftmost non-Rare card in your hand. NL Exhaust.",
-		"UPGRADE_DESCRIPTION": "Retain. NL Duplicate the leftmost non-Rare card in your hand. NL Exhaust."
+		"NAME": "Самопознание",
+		"DESCRIPTION": "Дублируйте самую левую не-Редкую карту в руке. NL Сжигается.",
+		"UPGRADE_DESCRIPTION": "Оставляется. NL Дублируйте самую левую не-Редкую карту в руке. NL Сжигается."
 	},
 	
 	"kobePurple:NeuralOverload": {
-		"NAME": "Neural Overload",
-		"DESCRIPTION": "Apply !M! *Mark. NL ALL *Marked enemies lose !kobePurple:SecondMagic! Strength this turn."
+		"NAME": "Нейронная перегрузка",
+		"DESCRIPTION": "Наложите !M! *Меток. NL ВСЕ *Отмеченные враги теряют !kobePurple:SecondMagic! Силы в этом ходу."
 	},
 	
 	"kobePurple:Predict": {
-		"NAME": "Predict",
-		"DESCRIPTION": "Guess the type of your draw pile's top card. NL If correct, play it.",
-		"UPGRADE_DESCRIPTION": "Guess the type of your draw pile's top card. NL If correct, play it, otherwise Scry !M!."
+		"NAME": "Предсказать",
+		"DESCRIPTION": "Предположите тип карты на верху стопки добора. NL Разыграйте ее если угадали.",
+		"UPGRADE_DESCRIPTION": "Предположите тип карты на верху стопки добора. NL Разыграйте ее если угадали, в противном случае предскажите !M! карты."
 	},
 	
 	"kobePurple:Ward": {
-		"NAME": "Ward",
-		"DESCRIPTION": "Gain Block equal to twice the amount of [W] gained this turn.",
-		"UPGRADE_DESCRIPTION": "Gain Block equal to twice the amount of [W] gained this turn +!M!.",
-		"EXTENDED_DESCRIPTION": [" NL (!B! Block)"]
+		"NAME": "Сторожить",
+		"DESCRIPTION": "Даёт Защиту, равную двойному количеству [W] полученной в этом ходу.",
+		"UPGRADE_DESCRIPTION": "Даёт Защиту, равную двойному количеству [W] полученной в этом ходу +!M!.",
+		"EXTENDED_DESCRIPTION": [" NL (!B! Защиты)"]
 	},
 	
 	
 	
 	"kobePurple:BackToBasics": {
-		"NAME": "Back to Basics",
-		"DESCRIPTION": "If you have 5 or more kobepurple:Common cards in your hand at the start of your turn, gain !M! Block."
+		"NAME": "Назад к основам",
+		"DESCRIPTION": "Если у вас есть 5 или больше kobepurple:Common картв руке на начало хода, даёт !M! Защиты."
 	},
 	
 	"kobePurple:Relentless": {
-		"NAME": "Relentless",
-		"DESCRIPTION": "Whenever you play your sixth card each turn, draw 2 cards and gain [W]."
+		"NAME": "Безжалостность",
+		"DESCRIPTION": "Каждый раз как вы разыгрываете шестую карту в одном ходу, возьмите 2 карты и получите [W]."
 	},
 	
 	"kobePurple:Synchronize": {
-		"NAME": "Synchronize",
-		"DESCRIPTION": "Wrath: Gain !M! Strength. NL Calm: Gain !M! Dexterity. NL Divinity: Gain 1 Intangible.",
-		"UPGRADE_DESCRIPTION": "Wrath: Gain !M! Strength. NL Calm: Gain !M! Dexterity. NL Divinity: Gain !kobePurple:SecondMagic! Regen and 1 Intangible."
+		"NAME": "Синхронизация",
+		"DESCRIPTION": "Гнев: Даёт !M! Силы. NL Спокойствие: Даёт !M! Ловкости. NL Божественность: Даёт 1 Неосязаемость.",
+		"UPGRADE_DESCRIPTION": "Гнев: Даёт !M! Силы. NL Спокойствие: Даёт !M! Ловкости. NL Божественность: Даёт !kobePurple:SecondMagic! Регенерации и 1 Неосязаемость."
 	},
 	
 	
 	
 	"kobePurple:PredictAttack": {
-		"NAME": "Attack",
-		"DESCRIPTION": "If the top card of your draw pile is an *Attack, play it.",
-		"UPGRADE_DESCRIPTION": "If the top card of your draw pile is an *Attack, play it, otherwise NL Scry !M!."
+		"NAME": "Атака",
+		"DESCRIPTION": "Если верхняя карта в стопке добора *Атака, разыграйте её.",
+		"UPGRADE_DESCRIPTION": "Если верхняя карта в стопке добора *Атака, разыграйте её, в противном случае NL предскажите !M! карты."
 	},
 	"kobePurple:PredictSkill": {
-		"NAME": "Skill",
-		"DESCRIPTION": "If the top card of your draw pile is a *Skill, play it.",
-		"UPGRADE_DESCRIPTION": "If the top card of your draw pile is a *Skill, play it, otherwise NL Scry !M!."
+		"NAME": "Навык",
+		"DESCRIPTION": "Если верхняя карта в стопке добора *Навык, разыграйте её.",
+		"UPGRADE_DESCRIPTION": "Если верхняя карта в стопке добора *Навык, разыграйте её, в противном случае NL предскажите !M! карты."
 	},
 	"kobePurple:PredictPower": {
-		"NAME": "Power",
-		"DESCRIPTION": "If the top card of your draw pile is a *Power, play it.",
-		"UPGRADE_DESCRIPTION": "If the top card of your draw pile is a *Power, play it, otherwise NL Scry !M!."
+		"NAME": "Талант",
+		"DESCRIPTION": "Если верхняя карта в стопке добора *Талант, разыграйте её.",
+		"UPGRADE_DESCRIPTION": "Если верхняя карта в стопке добора *Талант, разыграйте её, в противном случае NL предскажите !M! карты."
 	}
 	
 }
