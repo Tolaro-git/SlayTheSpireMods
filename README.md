@@ -15,7 +15,7 @@ Fork this, and notify me via the workshop page once you are done.
 
 ## Card Descriptions:
 
-  You need to format keywords properly so the game can recognize them, otherwise there will not be no highlights and no tooltips. They must be capitalized in the translation file, and must be separated from the rest of the text with spaces, even in languages that normally do not use spaces.
+  You need to format keywords properly so the game can recognize them, otherwise there will be no highlights and no tooltips. They must be capitalized in the translation file, and must be separated from the rest of the text with spaces, even in languages that normally do not use spaces.
   
   Below are the special symbols used in card descriptions. Do not alter them.
   
@@ -29,16 +29,16 @@ Fork this, and notify me via the workshop page once you are done.
     
     !kobeBlue:SecondMagic!: Same as above
     
-    kobeblue:Mykeyword: This is how you put a mod-defined keyword. It's case sensitive.
+    kobeblue:Mykeyword: This is how you put a mod-defined keyword. Case sensitive.
     
-    *: Colored word. Keywords are highlighted automatically, so this is mainly for created cards like Shivs.
+    *: Manual word highlight. Keywords are highlighted automatically, so this is mainly for created cards like Shivs.
 
-    NL: Manual line break. These are optional and you can add/remove/relocate them however you want. In practice though, you only use them for visual separation between unrelated card effects as the game can handle long texts on its own.
+    NL: Manual line break. These are optional and you can add/remove/relocate them however you want. In practice though, you're only going to use them for visual separation between unrelated card effects as the game can handle long texts on its own.
   
   
 ## Power Tooltips:
   
-  Each power tooltip consists of multiple strings separated by commas so that the game can insert varying numbers between them. Since the order of those numbers can not be changed, you will need to adapt your translation to fit the English format.
+  Each power tooltip consists of multiple strings so that the game can insert varying numbers between them. Since the order of those numbers can not be changed, you will need to adapt your translation to fit the English format.
   
   Power tooltips use different symbols from card descriptions:
     
