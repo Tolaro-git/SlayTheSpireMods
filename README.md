@@ -9,12 +9,13 @@ Language files for these mods:
   Purple: https://steamcommunity.com/sharedfiles/filedetails/?id=3342218134
 
 Fork this, and notify me via the workshop page once you are done. 
+
 If you need additional help, ask here or catch me on Discord: https://discord.gg/GAnNc6d23Y
 
 
 # Translation Guide
 
-## Card Descriptions:
+## Card Descriptions
 
   You need to format keywords properly so the game can recognize them, otherwise there will be no highlights and no tooltips. They must be capitalized in the translation file, and must be separated from the rest of the text with spaces, even in languages that normally do not use spaces.
   
@@ -37,7 +38,7 @@ If you need additional help, ask here or catch me on Discord: https://discord.gg
     NL: Manual line break. These are optional and you can add/remove/relocate them however you want. In practice though, you're only going to use them for visual separation between unrelated card effects as the game can handle long texts on its own.
   
   
-## Power Tooltips:
+## Power Tooltips
   
   Each power tooltip consists of multiple strings so that the game can insert varying numbers between them. Since the order of those numbers can not be changed, you will need to adapt your translation to fit the English format.
   
