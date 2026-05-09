@@ -9,6 +9,7 @@ Language files for these mods:
   Purple: https://steamcommunity.com/sharedfiles/filedetails/?id=3342218134
 
 Fork this, and notify me via the workshop page once you are done. 
+If you need additional help, ask here or catch me on Discord: https://discord.gg/GAnNc6d23Y
 
 
 # Translation Guide
