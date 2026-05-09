@@ -1,106 +1,106 @@
 {
   
   "kobeBlue:ExplosiveStrike": {
-    "NAME": "Explosive Strike",
-    "DESCRIPTION": "Deal !D! damage. NL Evoke ALL Lightning."
+    "NAME": "Взрывной удар",
+    "DESCRIPTION": "Наносит !D! урона. NL Разряжает ВСЕ Сферы Молнии."
   },
   
   "kobeBlue:Hack": {
-    "NAME": "Hack",
-    "DESCRIPTION": "Deal !D! damage. NL Gain 1 Orb slot."
+    "NAME": "Разрубание",
+    "DESCRIPTION": "Наносит !D! урона. NL Добавляет 1 слот для сфер."
   },
   
   "kobeBlue:Multiplexer": {
-    "NAME": "Multiplexer",
-    "DESCRIPTION": "Deal !D! damage !M! times. NL Dexterity and Focus affect the damage of this card."
+    "NAME": "Мультиплексор",
+    "DESCRIPTION": "Наносит !D! урона !M! раз. NL Ловкость и Фокус влияют на урон этой карты."
   },
   
   "kobeBlue:ScannerBeam": {
-    "NAME": "Scanner Beam",
-    "DESCRIPTION": "Deal !D! damage and apply 1 Lock-On to ALL enemies."
+    "NAME": "Сканирующий луч",
+    "DESCRIPTION": "Наносит !D! урона и накладывает 1 Захват цели на ВСЕХ врагов."
   },
   
   
   
   "kobeBlue:Arc": {
-    "NAME": "Arc",
-    "DESCRIPTION": "Innate. NL Channel !M! Lightning. NL Exhaust."
+    "NAME": "Дуга",
+    "DESCRIPTION": "Начальная. NL Заряжает !M! Сфер Молнии. NL Сжигается."
   },
   
   "kobeBlue:CloakingShadows": {
-    "NAME": "Cloaking Shadows",
-    "DESCRIPTION": "Channel 1 Dark. NL Gain Block equal to !M! times the number of Dark you have.",
-    "UPGRADE_DESCRIPTION": "Channel 1 Dark. NL Gain Block equal to !M! times the number of Dark you have +!kobeBlue:SecondMagic!.",
-    "EXTENDED_DESCRIPTION": [" NL (!B! Block.)"]
+    "NAME": "Окутывающие тени",
+    "DESCRIPTION": "Заряжает 1 Сферу тьмы. NL Дает Защиту равную !M! помноженное на количество Сфер Тьмы в наличии.",
+    "UPGRADE_DESCRIPTION": "Заряжает 1 Сферу тьмы. NL Дает Защиту равную !M! помноженное на количество Сфер Тьмы в наличии +!kobeBlue:SecondMagic!.",
+    "EXTENDED_DESCRIPTION": [" NL (!B! Защиты.)"]
   },
   
   "kobeBlue:Debug": {
-    "NAME": "Debug",
-    "DESCRIPTION": "Scry !M!. NL Exhaust !kobeBlue:SecondMagic! random Curse or Status in your discard pile.",
-    "UPGRADE_DESCRIPTION": "Scry !M!. NL Exhaust !kobeBlue:SecondMagic! random Curses or Statuses in your discard pile."
+    "NAME": "Отладка",
+    "DESCRIPTION": "Вы предсказываете !M! карт. NL Сжигает !kobeBlue:SecondMagic! случайное Проклятье или Статус в вашей стопке сброса.",
+    "UPGRADE_DESCRIPTION": "Вы предсказываете !M! карт. NL Сжигает !kobeBlue:SecondMagic! случайных Проклятья или Статуса в вашей стопке сброса."
   },
   
   "kobeBlue:Hibernate": {
-    "NAME": "Hibernate",
-    "DESCRIPTION": "Channel !kobeBlue:SecondMagic! Frost. NL Next turn, remove !M! rightmost Frost."
+    "NAME": "Гибернация",
+    "DESCRIPTION": "Заряжает !kobeBlue:SecondMagic! Сфер Льда. NL В следующем ходу удалит !M! правых Сферы Льда."
   },
   
   "kobeBlue:Integrate": {
-    "NAME": "Integrate",
-    "DESCRIPTION": "Convert each empty Orb slot into !M! NL *Plated *Armor. NL Exhaust."
+    "NAME": "Интеграция",
+    "DESCRIPTION": "Преобразует каждый пустой слот для сфер в !M! NL *Панциря. NL Сжигается."
   },
   
   "kobeBlue:Nova": {
-    "NAME": "Nova",
-    "DESCRIPTION": "Evoke up to 3 Orbs. NL If 3 unique Orbs are Evoked this way, Channel 1 Plasma."
+    "NAME": "Нова",
+    "DESCRIPTION": "Разряжает до 3 Сфер. NL Если 3 уникальные Сферы были Разряжены, Заряжает 1 Сферу Плазмы."
   },
   
   "kobeBlue:Polymorphism": {
-    "NAME": "Polymorphism",
-    "DESCRIPTION": "Choose 1 of !M! non-Blue Powers to add into your hand. NL Exhaust."
+    "NAME": "Полиморфизм",
+    "DESCRIPTION": "Выберите 1 из !M! не-Синих Талантов и добавьте в руку. NL Сжигается."
   },
   
   "kobeBlue:Unity": {
-    "NAME": "Unity",
-    "DESCRIPTION": "Gain !B! Block. NL If all your Orbs are of the same type, draw !M! cards."
+    "NAME": "Единство",
+    "DESCRIPTION": "Даёт !B! Защиты. NL Если все заряженные сферы одинакового типа, возьмите !M! карты."
   },
   
   
   
   "kobeBlue:Automation": {
-    "NAME": "Automation",
-    "DESCRIPTION": "Ethereal. NL Gain !M! Focus. NL Whenever an Orb is Channeled, Evoke it.",
-    "UPGRADE_DESCRIPTION": "Gain !M! Focus. NL Whenever an Orb is Channeled, Evoke it."
+    "NAME": "Автоматизация",
+    "DESCRIPTION": "Эфирная. NL Даёт !M! Фокуса. NL Каждый раз при зарядке Сферы сразу разрядите её.",
+    "UPGRADE_DESCRIPTION": "Даёт !M! Фокуса. NL Каждый раз при зарядке Сферы сразу разрядите её."
   },
   
   "kobeBlue:HeavyDuty": {
-    "NAME": "Heavy-Duty",
-    "DESCRIPTION": "Whenever you gain a debuff, gain !M! Artifact."
+    "NAME": "Сверхпрочность",
+    "DESCRIPTION": "Каждый раз при получении негативного эффекта, даёт !M! Артефакт."
   },
   
   "kobeBlue:TrialAndError": {
-    "NAME": "Trial and Error",
-    "DESCRIPTION": "The first time you shuffle your draw pile each turn, gain !M! Strength and !M! Dexterity.",
-    "UPGRADE_DESCRIPTION": "The first time you shuffle your draw pile each turn, gain !M! Strength and !M! Dexterity. Scry !kobeBlue:SecondMagic!."
+    "NAME": "Пробы и ошибки",
+    "DESCRIPTION": "При первом замешивании стопки сброса в стопку добора в ходу, даёт !M! Силы и !M! Ловкости.",
+    "UPGRADE_DESCRIPTION": "При первом замешивании стопки сброса в стопку добора в ходу, даёт !M! Силы и !M! Ловкости. Вы предсказываетсе !kobeBlue:SecondMagic! карты."
   },
   
   
   
   "kobeBlue:EvokeOne": {
-    "NAME": "Evoke One",
-    "DESCRIPTION": "Evoke 1 Orb."
+    "NAME": "Разряд",
+    "DESCRIPTION": "Разрядить 1 Сферу."
   },
   "kobeBlue:EvokeTwo": {
-    "NAME": "Evoke Two",
-    "DESCRIPTION": "Evoke 2 Orbs."
+    "NAME": "Двойной разряд",
+    "DESCRIPTION": "Разрядить 2 Сферы."
   },
   "kobeBlue:EvokeThree": {
-    "NAME": "Evoke Three",
-    "DESCRIPTION": "Evoke 3 Orbs."
+    "NAME": "Тройной разряд",
+    "DESCRIPTION": "Разрядить 3 Сферы."
   },
   "kobeBlue:EvokeThree2": {
-    "NAME": "Evoke Three",
-    "DESCRIPTION": "Evoke 3 Orbs. NL Channel 1 Plasma."
+    "NAME": "Тройной разряд",
+    "DESCRIPTION": "Разрядить 3 Сферы. NL Зарядить 1 Сферу Плазмы."
   }
   
 }

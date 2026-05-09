@@ -1,29 +1,29 @@
 {
 	
 	"kobeBlue:HibernationPower": {
-		"NAME": "Hibernation",
-		"DESCRIPTIONS": ["At the start of your next turn, remove #b", " rightmost #yFrost."]
+		"NAME": "Гибернация",
+		"DESCRIPTIONS": ["В начале следующего хода удалите #b", " правых #yСфер #yЛьда."]
 	},
 	
 	
 	
 	"kobeBlue:AutomationPower": {
-		"NAME": "Automation",
+		"NAME": "Автоматизация",
 		"DESCRIPTIONS": [
-			"Whenever you #yChannel an Orb, #yEvoke your leftmost Orb.",
-			"Whenever you #yChannel an Orb, #yEvoke #b",
-			" leftmost Orbs."
+			"Каждый раз при #yЗарядке Сферы, #yРазрядите левую заряженную Сферу.",
+			"Каждый раз при #yЗарядке Сферы, #yРазрядите #b",
+			" левых заряженных Сфер."
 		]
 	},
 	
 	"kobeBlue:HeavyDutyPower": {
-		"NAME": "Heavy-Duty",
-		"DESCRIPTIONS": ["Whenever you gain a debuff, gain #b", " #yArtifact."]
+		"NAME": "Сверхпрочность",
+		"DESCRIPTIONS": ["Каждый раз при получении негативного эффекта даёт #b", " #yАртефакт."]
 	},
 	
 	"kobeBlue:TrialAndErrorPower": {
-		"NAME": "Trial and Error",
-		"DESCRIPTIONS": ["The first time you shuffle your draw pile each turn, gain #b", " #yStrength and #b", " #yDexterity."]
+		"NAME": "Пробы и ошибки",
+		"DESCRIPTIONS": ["При первом замешивании стопки сброса в стопку добора в ходу даёт #b", " #yСилу и #b", " #yЛовкость."]
 	}
 	
 }
