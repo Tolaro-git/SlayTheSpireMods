@@ -34,8 +34,12 @@ If you need any further help, ask here or catch me on Discord: https://discord.g
     *: Manual word highlight. Keywords are highlighted automatically, so this is mainly for created cards like Shivs.
 
     NL: Manual line break. These are optional and you can add/remove/relocate them however you want. In practice though, you're only going to use them for visual separation between unrelated card effects as the game can handle long texts on its own.
+
+  Mod-defined keywords look like this and unlike the symbols listed above, you do need to translate them:
   
-    kobeblue:Mykeyword: Mod-defined keyword
+    kobepurple:Common
+    
+    kobepurple:普通牌
     
   
 ## Power Tooltips
