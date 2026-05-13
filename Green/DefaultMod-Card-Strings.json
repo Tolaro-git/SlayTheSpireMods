@@ -80,8 +80,7 @@
 
 	"kobeGreen:Condition": {
 		"NAME": "Condition",
-		"DESCRIPTION": "Add !M! *Shivs into your hand. Whenever you discard a *Shiv, ALL enemies lose !kobeGreen:SecondMagic! Strength for 1 turn.",
-		"UPGRADE_DESCRIPTION": "Add !M! *Shivs+ into your hand. Whenever you discard a *Shiv, ALL enemies lose !kobeGreen:SecondMagic! Strength for 1 turn."
+		"DESCRIPTION": "Add !M! *Shivs into your hand. Whenever you discard a *Shiv, ALL enemies lose !kobeGreen:SecondMagic! Strength for 1 turn."
 	},
 
 	"kobeGreen:Poltergeist": {
