@@ -86,7 +86,7 @@
 	"kobeGreen:Poltergeist": {
 		"NAME": "Poltergeist",
 		"DESCRIPTION": "Every other time you draw a 0-cost card, draw 1 card.",
-		"UPGRADE_DESCRIPTION": "Innate. Every other time you draw a 0-cost card, draw 1 card."
+		"UPGRADE_DESCRIPTION": "Innate. NL Every other time you draw a 0-cost card, draw 1 card."
 	},
 
 	"kobeGreen:Unpredictable": {
