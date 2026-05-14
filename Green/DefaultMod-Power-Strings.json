@@ -1,10 +1,15 @@
 {
-	
+
 	"kobeGreen:CamouflagePower": {
 		"NAME": "Камуфляж",
 		"DESCRIPTIONS": ["Пока у вас есть #yКамуфляж, у вас есть #b3 дополнительной #yЛовкости. Потеряйте #b1 #yКамуфляж при разыгрывании #yНавыка."]
 	},
-	
+
+	"kobeGreen:FreeSkillPower": {
+		"NAME": "Бесплатный навык",
+		"DESCRIPTIONS": ["Игнорируйте затраты энергии на следующий разыгранный #yНавык."]
+	},
+
 	"kobeGreen:EnemyBufferPower": {
 		"NAME": "Буфер",
 		"DESCRIPTIONS": [
@@ -23,22 +28,17 @@
 		]
 	},
 	
-	
-	
-	"kobeGreen:AdaptivePower": {
-		"NAME": "Адаптация",
-		"DESCRIPTIONS": [
-			"Если вы окончите ход с большим количеством карт в стопке сброса, нежели в стопке добора, получите ",
-			" в следующем ходу. Применяется перед очисткой руки."
-		]
-	},
-	
 	"kobeGreen:ConditionPower": {
 		"NAME": "Состояние",
 		"DESCRIPTIONS": [
 			"При сбросе Заточки, ВСЕ враги теряют #b",
 			" Силы на #b1 ход."
 		]
+	},
+
+	"kobeGreen:PoltergeistPower": {
+		"NAME": "Полтергейст",
+		"DESCRIPTIONS": ["При вытягивании карты стоимостью 0 вытяните еще #b", " карту.", " карт."]
 	},
 	
 	"kobeGreen:UnpredictablePower": {
