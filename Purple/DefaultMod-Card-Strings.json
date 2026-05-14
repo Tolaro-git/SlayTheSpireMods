@@ -20,12 +20,12 @@
 	
 	"kobePurple:Conundrum": {
 		"NAME": "Загадка",
-		"DESCRIPTION": "Если у врага есть Слабость, наложите !M! Уязвимость, в противном случае наложите !kobePurple:SecondMagic! Слабость."
+		"DESCRIPTION": "Оставляется. NL Если эта карта оставлялась в прошлом ходу наложите !kobePurple:SecondMagic! Слабость и !M! Уязвимость."
 	},
 	
 	"kobePurple:EbbAndFlow": {
 		"NAME": "Приливы и отливы",
-		"DESCRIPTION": "Оставляется. NL Перейдите в случайную Стойку. NL Сжигается."
+		"DESCRIPTION": "Перейдите в случайную Стойку."
 	},
 	
 	"kobePurple:Ecstasy": {
