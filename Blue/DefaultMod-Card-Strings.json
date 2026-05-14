@@ -41,7 +41,7 @@
   
   "kobeBlue:Hibernate": {
     "NAME": "Гибернация",
-    "DESCRIPTION": "Заряжает !kobeBlue:SecondMagic! Сферы\u00A0Льда. NL В следующем ходу удалит !M! правых Сферы\u00A0Льда."
+    "DESCRIPTION": "Заряжает !kobeBlue:SecondMagic! Сфер\u00A0Льда. NL В следующем ходу удалит !M! правых Сфер\u00A0Льда."
   },
   
   "kobeBlue:Integrate": {
