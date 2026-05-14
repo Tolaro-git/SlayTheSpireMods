@@ -40,7 +40,9 @@ If you need any further help, ask here or catch me on Discord: https://discord.g
     kobepurple:Common
     
     kobepurple:普通牌
-    
+
+
+    Сферы Молнии
   
 ## Power Tooltips
   
