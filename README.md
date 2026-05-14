@@ -46,4 +46,3 @@ Fork this, and notify me via the workshop page once you are done.
     
     #b: Colored number (blue)
 
-Сферы\u0020Молнии
