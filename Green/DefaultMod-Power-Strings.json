@@ -38,7 +38,7 @@
 
 	"kobeGreen:PoltergeistPower": {
 		"NAME": "Полтергейст",
-		"DESCRIPTIONS": ["При вытягивании карты стоимостью 0 вытяните еще #b", " карту.", " карт."]
+		"DESCRIPTIONS": ["При вытягивании каждой второй карты стоимостью 0 вытяните еще #b", " карту.", " карт."]
 	},
 	
 	"kobeGreen:UnpredictablePower": {
